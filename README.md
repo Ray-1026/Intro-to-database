@@ -1,4 +1,4 @@
-# NYCU-intro-to-database
+# Intro-to-database
 
 Instructor : 曾意儒
 
